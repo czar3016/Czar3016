@@ -1,0 +1,4 @@
+Banana 80
+Baked 120
+WholeGrain 60
+BlueCornmeal 50

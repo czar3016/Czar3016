@@ -1,0 +1,9 @@
+Branch PB proccesed 60000 characters with method D from port #1 for a total of 480.0cents.
+Branch PB proccesed 100000 characters with method P from port #3 for a total of 700.0cents.
+Branch FB proccesed 30000 characters with method P from port #1 for a total of 270.0cents.
+Branch PB proccesed 75000 characters with method D from port #2 for a total of 600.0cents.
+Branch FB proccesed 150000 characters with method D from port #2 for a total of 1050.0cents.
+Branch FB proccesed 89000 characters with method P from port #3 for a total of 800.9999999999999cents.
+Branch MB proccesed 200000 characters with method P from port #1 for a total of 1900.0cents.
+Branch MB proccesed 140000 characters with method D from port #2 for a total of 1148.0cents.
+Branch MB proccesed 135000 characters with method P from port #3 for a total of 1282.5cents.

@@ -1,0 +1,220 @@
+Echo input data
+ID echo 45A3
+Name echo Jones,_H_A
+Grade 1 echo 86
+Grade 2 echo 88
+Grade 3 echo 95
+Total Hours echo 98
+GPA echo 3.42
+45A3, Jones,_H_A got scores 86 88 95 and has 98Hours with a 3.42 GPA
+Echo input data
+ID echo 34K5
+Name echo Horner,_M
+Grade 1 echo 67
+Grade 2 echo 75
+Grade 3 echo 23
+Total Hours echo 17
+GPA echo 1.95
+34K5, Horner,_M got scores 67 75 23 and has 17Hours with a 1.95 GPA
+Echo input data
+ID echo 56J8
+Name echo Gach,_T_A
+Grade 1 echo 75
+Grade 2 echo 85
+Grade 3 echo 90
+Total Hours echo 60
+GPA echo 3.75
+56J8, Gach,_T_A got scores 75 85 90 and has 60Hours with a 3.75 GPA
+Echo input data
+ID echo 34U8
+Name echo Hunter_C
+Grade 1 echo 100
+Grade 2 echo 50
+Grade 3 echo 75
+Total Hours echo 75
+GPA echo 2.6
+34U8, Hunter_C got scores 100 50 75 and has 75Hours with a 2.6 GPA
+Echo input data
+ID echo 42P4
+Name echo Hinrichs_S
+Grade 1 echo 85
+Grade 2 echo 75
+Grade 3 echo 65
+Total Hours echo 52
+GPA echo 3.29
+42P4, Hinrichs_S got scores 85 75 65 and has 52Hours with a 3.29 GPA
+Echo input data
+ID echo 78T6
+Name echo Johnson_K
+Grade 1 echo 80
+Grade 2 echo 78
+Grade 3 echo 89
+Total Hours echo 15
+GPA echo 2.0
+78T6, Johnson_K got scores 80 78 89 and has 15Hours with a 2.0 GPA
+Echo input data
+ID echo 44L2
+Name echo Levitte_H
+Grade 1 echo 56
+Grade 2 echo 66
+Grade 3 echo 99
+Total Hours echo 100
+GPA echo 2.35
+44L2, Levitte_H got scores 56 66 99 and has 100Hours with a 2.35 GPA
+Echo input data
+ID echo 88I9
+Name echo Garner_J
+Grade 1 echo 95
+Grade 2 echo 92
+Grade 3 echo 98
+Total Hours echo 110
+GPA echo 3.89
+88I9, Garner_J got scores 95 92 98 and has 110Hours with a 3.89 GPA
+Getting Students from Report Cards container
+This is the sorted values from the ReportCards container
+Getting Students from Report Cards
+
+Dropped Students deleted.
+
+New Students added.
+
+End of Part 2. Now running Part 3; Generic Class.
+
+Student Report Card
+, StudentID 88I9
+Name Garner_J
+Test 1 grade 95
+Test 2 grade 92
+Test 3 grade 98
+95.0%
+Final Grade A
+Year Rank SR
+Total Hours 110
+Old GPA 3.89
+New GPA 3.891964285714286
+
+Student Report Card
+, StudentID 89P0
+Name Singer_A
+Test 1 grade 85
+Test 2 grade 95
+Test 3 grade 99
+93.0%
+Final Grade A
+Year Rank SR
+Total Hours 130
+Old GPA 3.87
+New GPA 3.871969696969697
+
+Student Report Card
+, StudentID 67T4
+Name Clouse_B
+Test 1 grade 80
+Test 2 grade 75
+Test 3 grade 98
+84.0%
+Final Grade B
+Year Rank SR
+Total Hours 102
+Old GPA 3.65
+New GPA 3.6375
+
+Student Report Card
+, StudentID 56J8
+Name Gach,_T_A
+Test 1 grade 75
+Test 2 grade 85
+Test 3 grade 90
+83.0%
+Final Grade B
+Year Rank SO
+Total Hours 60
+Old GPA 3.75
+New GPA 3.725806451612903
+
+Student Report Card
+, StudentID 78T6
+Name Johnson_K
+Test 1 grade 80
+Test 2 grade 78
+Test 3 grade 89
+82.0%
+Final Grade B
+Year Rank FR
+Total Hours 15
+Old GPA 2.0
+New GPA 2.1176470588235294
+
+Student Report Card
+, StudentID 34U8
+Name Hunter_C
+Test 1 grade 100
+Test 2 grade 50
+Test 3 grade 75
+75.0%
+Final Grade C
+Year Rank JR
+Total Hours 75
+Old GPA 2.6
+New GPA 2.5844155844155843
+
+Student Report Card
+, StudentID 42P4
+Name Hinrichs_S
+Test 1 grade 85
+Test 2 grade 75
+Test 3 grade 65
+75.0%
+Final Grade C
+Year Rank SO
+Total Hours 52
+Old GPA 3.29
+New GPA 3.2422222222222223
+
+Student Report Card
+, StudentID 45P5
+Name Garrison_J
+Test 1 grade 75
+Test 2 grade 78
+Test 3 grade 72
+75.0%
+Final Grade C
+Year Rank SO
+Total Hours 39
+Old GPA 1.85
+New GPA 1.8573170731707318
+
+Student Report Card
+, StudentID 44L2
+Name Levitte_H
+Test 1 grade 56
+Test 2 grade 66
+Test 3 grade 99
+73.0%
+Final Grade C
+Year Rank SR
+Total Hours 100
+Old GPA 2.35
+New GPA 2.343137254901961
+
+Student Report Card
+, StudentID 34K5
+Name Horner,_M
+Test 1 grade 67
+Test 2 grade 75
+Test 3 grade 23
+55.0%
+Final Grade F
+Year Rank FR
+Total Hours 17
+Old GPA 1.95
+New GPA 1.7447368421052631
+-3.5
+0.9
+1.5
+2.3
+8.9
+11.2
+12.4
+15.6
+51.2
